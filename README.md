@@ -14,7 +14,7 @@
 
 <details>
   <summary>:snake: Grid Snake</summary>
-  <a href="javascript:void(0)">
+  <a href="#">
     <img alt=":snake" src="https://cdn.jsdelivr.net/gh/usaginya/usaginya@main/assets/github-contribution-grid-snake.svg" />
   </a>
 </details>
