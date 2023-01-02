@@ -11,3 +11,6 @@
     <img alt=":usaginya" src="https://count.getloli.com/get/@:usaginya?theme=rule34" />
   </a>
 </details>
+
+<summary>:snake: Grid Snake</summary>
+![](https://cdn.jsdelivr.net/gh/usaginya/usaginya@main/assets/github-contribution-grid-snake.svg)
