@@ -13,4 +13,4 @@
 </details>
 
 <summary>:snake: Grid Snake</summary>
-![](https://cdn.jsdelivr.net/gh/usaginya/usaginya@main/assets/github-contribution-grid-snake.svg)
+![Grid Snake](https://cdn.jsdelivr.net/gh/usaginya/usaginya@main/assets/github-contribution-grid-snake.svg)
