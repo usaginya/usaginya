@@ -19,7 +19,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           message: "Generate Contribution Snake"
           outputs: |
-            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake.svg?color_snake=#ff8db7&color_dots=#eef3f9,#9be9a8,#40c463,#30a14e,#216e39
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
