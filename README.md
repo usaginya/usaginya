@@ -15,8 +15,8 @@
 <details>
   <summary>:snake: Grid Snake</summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/usaginya/usaginya@output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/usaginya/usaginya@output/github-contribution-grid-snake.svg">
-    <img alt=":snake" src="https://cdn.jsdelivr.net/gh/usaginya/usaginya@output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usaginya/usaginya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usaginya/usaginya/output/github-contribution-grid-snake.svg">
+    <img alt=":snake" src="https://raw.githubusercontent.com/usaginya/usaginya/output/github-contribution-grid-snake.svg" />
   </picture>
 </details>
